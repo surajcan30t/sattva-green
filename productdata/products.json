@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "title": "Divya Swasari Pravahi",
+        "price": 79,
+        "description": "Divya swasari pravahi activates the cells of the lungs. It alleviates respiratory tract and lung inflammation. Its use enhances easy expulsion of cough deposited in the lungs. It is an effective ayurvedic medicine used for the treatment of asthma.",
+        "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/1688456393SwaasariPravahi250ml1_1.png"
+    },
+    {
+        "id": 2,
+        "title": "Divya Churna",
+        "price": 65,
+        "description": "Divya Churna is a time-tested medicine for constipation and indigestion. It is made from a combination of natural extracts that have the capacity to purge your system of toxins.",
+        "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/1688380039Divyachuran50g1.png"
+    },
+    {
+        "id": 3,
+        "title": "Aamvatari Ras",
+        "price": 45,
+        "description": "Amvatari Ras treats rheumatoid arthritis and osteoarthritis. Our dietary habits and urban, sedentary lifestyle often makes us vulnerable to toxin accumulation in body, pain in joints, etc.",
+        "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/1688455307Amvatariras.png"
+    },
+    {
+        "id": 4,
+        "title": "Divya Vidangasav",
+        "price": 45,
+        "description": "Vidangasav is effective to expel worms and helps to expel intestinal worms and relieves problems associated with it. A vermifuge effective in all types of worms and stomach related ailments.",
+        "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/1688194498vidangsav(1).png"
+    },
+    {
+        "id": 5,
+        "title": "Divya Amla Churna",
+        "price": 35,
+        "description": "Amla Churna is made from amla or gooseberry which is a rich natural source of vitamin C and has a multitude of other benefits.",
+        "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/1688380303Amlachurna100g2.png"
+    },
+    {
+        "id": 6,
+        "title": "Divya Arjunarishth",
+        "price": 135,
+        "description": "Arjunarishth brings to you the goodness of arjun in medicine form. Arjun extract is a clinically proven remedy for cardiovascular disorders. It strengthens heart muscles and controls heart rate and blood pressure.",
+        "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/1688195228Arjunarishth450ml1.png"
+    },
+    {
+        "id": 7,
+        "title": "Patanjali Rogan Badam Shirin",
+        "price": 168,
+        "description": "Patanjali rogan badam shirin brings to you the goodness of badam (almonds) extracted with the care it deserves. Almonds have diverse benefits. Badam rogan oil when applied has soothing effect on the brain and nervous system.",
+        "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/1688452209RoghanBadamShirin60ml.png"
+    },
+    {
+        "id": 8,
+        "title": "Patanjali Balm",
+        "price": 28,
+        "description": "Balm is a topical cream that is prepared to alleviate discomfort and pain. Patanjali balm is an exceptional analgesic balm that is formulated with a potent blend of natural ingredients that are known for their therapeutic properties. ",
+        "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/1688195663Balm10g1.png"
+    },
+    {
+        "id": 9,
+        "title": "Yogendra Ras",
+        "price": 1008,
+        "description": "For various strokes, epilepsy, heart ailments, timidity and physic troubles. High quality 'ras rasayan', with gold contents, with ultra-modern refinery process, this is helpful in many complex diseases. ",
+        "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/16914011491.png"
+    },
+    {
+        "id": 10,
+        "title": "Ekangveer Ras",
+        "price": 28,
+        "description": "Ekangveer Ras treats scitica and nerve related problems. It is made through a painstaking process to combine natural and herbal extracts. These components are a natural source of calcium, vitamin D and other nutrients which nourishes our bone structure and relieves us of pains.",
+        "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/16914057321.png"
+    },
+    {
+        "id": 11,
+        "title": "Divya Usirasav",
+        "price": 145,
+        "description": "Divya Usirasav is an ayurvedic product used for ahaemostatic and pitta pacifying. It is diuretic, cooling, tranquilizer and blood purifier. Divya Usirasav is a liquid Ayurveda medicine used in treating bleeding disorders, skin diseases.",
+        "image":"https://www.patanjaliayurved.net/assets/product_images/400x500/1688194549Usirasav(1).png"
+    },
+    {
+        "id": 12,
+        "title": "Laxmivilas Ras",
+        "price": 70,
+        "description": "Laxmivilas Ras is a traditional Ayurvedic formulation that cures a cough, cold and rhinitis. It soothes the throat and sinuses. It loosens the mucus accumulated in the chest thus making it easy to cough it up.",
+        "image":"https://www.patanjaliayurved.net/assets/product_images/400x500/1688454064LaxmiVilasRas80Tab1.png"
+    },
+    {
+        "id": 13,
+        "title": "Divya Totala Kwath",
+        "price": 70,
+        "description": "Laxmivilas Ras is a traditional Ayurvedic formulation that cures a cough, cold and rhinitis. It soothes the throat and sinuses. It loosens the mucus accumulated in the chest thus making it easy to cough it up.",
+        "image":"https://www.patanjaliayurved.net/assets/product_images/400x500/1688728035Totalakwath(1).png"
+    },
+    {
+        "id": 14,
+        "title": "Divya Giloy Kwath",
+        "price": 40,
+        "description": " Giloy cures cold and weakness due to low platelet count. It detoxifies your system and gives you glowing skin. Giloy also boosts your immunity and keeps diseases at bay.",
+        "image":"https://www.patanjaliayurved.net/assets/product_images/400x500/1688377603GiloyKwath200g1.png"
+    },
+    {
+        "id": 15,
+        "title": "Patanjali Moosli Pak",
+        "price": 400,
+        "description": " Patanjali Moosli Pak is an ayurvedic formulation used for restoring physical strength and acts as a nourishing tonic. It improves stamina, strength, time, and performance in men. I",
+        "image":"https://www.patanjaliayurved.net/assets/product_images/400x500/1690955764MoosliPak-200gm1.png"
+    },
+    {
+        "id": 16,
+        "title": "Patanjali Kesh Kanti Advance Herbal Hair Expert Oil",
+        "price": 352,
+        "description": " Hair nutrition is an essential aspect of maintaining optimal hair health for individuals. Patanjali Kesh Kanti Advanced Herbal Hair Expert Oil presents a viable solution to a range of hair-related issues.",
+        "image":"https://www.patanjaliayurved.net/assets/product_images/400x500/16895005111.png"
+    },
+    {
+        "id": 18,
+        "title": "Patanjali Kesh Kanti Reetha Hair Cleanser",
+        "price": 111,
+        "description": "Patanjali kesh kanti reetha hair cleanser, an advanced new generation formulation loaded with bio-actives, phyo-keratin & vitamin b5 to make hair healthy, smooth & silky.",
+        "image":"https://www.patanjaliayurved.net/assets/product_images/400x500/1694423173KKKeshReethaHairCleanser-180ml1.png"
+    },
+    {
+        "id": 19,
+        "title": "Patanjali Honey",
+        "price": 125,
+        "description": "Honey is a naturally occurring sweet substance that is produced by honey bees from the nectar of flowers. According to Ayurveda, honey (or Madhu) is referred to as the ",
+        "image":"https://www.patanjaliayurved.net/assets/product_images/400x500/1690961755Honey250g1.png"
+    },
+    {
+        "id": 20,
+        "title": "Divya Dant Manjan",
+        "price": 100,
+        "description": "After the treatment for lakhs of people for various dental problems, we have ascertained that Divya Dant Manjan is the most powerful medicated product for the gums as well as teeth. By using this tooth powder, gums become strong.",
+        "image":"https://www.patanjaliayurved.net/assets/product_images/400x500/1691405817DantManjan100g1.png"
+    }
+]
