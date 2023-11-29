@@ -11,6 +11,7 @@ export const data = {
         {
             "id": "2",
             "title": "Divya Churna",
+            "countInStock": 10,
             "price": 65,
             "description": "Divya Churna is a time-tested medicine for constipation and indigestion. It is made from a combination of natural extracts that have the capacity to purge your system of toxins.",
             "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/1688380039Divyachuran50g1.png"
@@ -18,6 +19,7 @@ export const data = {
         {
             "id": "3",
             "title": "Aamvatari Ras",
+            "countInStock": 10,
             "price": 45,
             "description": "Amvatari Ras treats rheumatoid arthritis and osteoarthritis. Our dietary habits and urban, sedentary lifestyle often makes us vulnerable to toxin accumulation in body, pain in joints, etc.",
             "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/1688455307Amvatariras.png"
@@ -25,6 +27,7 @@ export const data = {
         {
             "id": "4",
             "title": "Divya Vidangasav",
+            "countInStock": 10,
             "price": 45,
             "description": "Vidangasav is effective to expel worms and helps to expel intestinal worms and relieves problems associated with it. A vermifuge effective in all types of worms and stomach related ailments.",
             "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/1688194498vidangsav(1).png"
@@ -32,6 +35,7 @@ export const data = {
         {
             "id": "5",
             "title": "Divya Amla Churna",
+            "countInStock": 10,
             "price": 35,
             "description": "Amla Churna is made from amla or gooseberry which is a rich natural source of vitamin C and has a multitude of other benefits.",
             "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/1688380303Amlachurna100g2.png"
@@ -39,6 +43,7 @@ export const data = {
         {
             "id": "6",
             "title": "Divya Arjunarishth",
+            "countInStock": 10,
             "price": 135,
             "description": "Arjunarishth brings to you the goodness of arjun in medicine form. Arjun extract is a clinically proven remedy for cardiovascular disorders. It strengthens heart muscles and controls heart rate and blood pressure.",
             "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/1688195228Arjunarishth450ml1.png"
@@ -46,6 +51,7 @@ export const data = {
         {
             "id": "7",
             "title": "Patanjali Rogan Badam Shirin",
+            "countInStock": 10,
             "price": 168,
             "description": "Patanjali rogan badam shirin brings to you the goodness of badam (almonds) extracted with the care it deserves. Almonds have diverse benefits. Badam rogan oil when applied has soothing effect on the brain and nervous system.",
             "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/1688452209RoghanBadamShirin60ml.png"
@@ -53,6 +59,7 @@ export const data = {
         {
             "id": "8",
             "title": "Patanjali Balm",
+            "countInStock": 10,
             "price": 28,
             "description": "Balm is a topical cream that is prepared to alleviate discomfort and pain. Patanjali balm is an exceptional analgesic balm that is formulated with a potent blend of natural ingredients that are known for their therapeutic properties. ",
             "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/1688195663Balm10g1.png"
@@ -60,6 +67,7 @@ export const data = {
         {
             "id": "9",
             "title": "Yogendra Ras",
+            "countInStock": 10,
             "price": 1008,
             "description": "For various strokes, epilepsy, heart ailments, timidity and physic troubles. High quality 'ras rasayan', with gold contents, with ultra-modern refinery process, this is helpful in many complex diseases. ",
             "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/16914011491.png"
@@ -67,6 +75,7 @@ export const data = {
         {
             "id": "10",
             "title": "Ekangveer Ras",
+            "countInStock": 10,
             "price": 28,
             "description": "Ekangveer Ras treats scitica and nerve related problems. It is made through a painstaking process to combine natural and herbal extracts. These components are a natural source of calcium, vitamin D and other nutrients which nourishes our bone structure and relieves us of pains.",
             "image": "https://www.patanjaliayurved.net/assets/product_images/400x500/16914057321.png"
